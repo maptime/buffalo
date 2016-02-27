@@ -5,6 +5,7 @@ paginate: 5
 repo: buffalo
 github_org: maptime
 maptime:
-  #chapter: Meetup name
-  #twitter: YourName
+  chapter: MaptimeBUF
+  twitter: MaptimeBUF
   #disqus: YOUR DISQUS USERNAME
+future: true
