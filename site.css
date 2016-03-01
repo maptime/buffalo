@@ -8,7 +8,7 @@ h1 { font-size:32px; line-height:36px; }
 a       { color:#279acb; }
 a:hover { text-decoration:underline; }
 
-.dark a, 
+.dark a,
 .dark a:hover { color:#fff; text-decoration:none; }
 
 h1 a,
@@ -163,7 +163,7 @@ a.fill-darken0:hover  { background-color:rgba(0,0,0,0.15); }
 .popup-group > a:hover + .popup { display:block; }
 
 .popup.popup-big {
-  width:320px; 
+  width:320px;
   right:auto;
   top:0;
   left:-330px;
@@ -190,7 +190,7 @@ a.fill-darken0:hover  { background-color:rgba(0,0,0,0.15); }
     position:absolute;
     bottom:0;
     width:100%;
-    height:40px; 
+    height:40px;
     background: -webkit-linear-gradient(top, transparent, #fff);
     background:    -moz-linear-gradient(top, transparent, #fff);
     background:     -ms-linear-gradient(top, transparent, #fff);
@@ -205,4 +205,11 @@ a.fill-darken0:hover  { background-color:rgba(0,0,0,0.15); }
   .sidebar, .content { width:100%; }
   .sidebar { padding:0; }
   header .limiter { padding:120px 0 0; }
+}
+
+
+/* BUFFALO CSS  */
+.buffalo-header {
+  background-image: url(img/banner.png);
+  background-position-x: right;
 }
