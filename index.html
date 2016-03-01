@@ -24,7 +24,10 @@ layout: default
     <h2><a href='{{site.baseurl}}{{item.url}}'>{{item.title}}</a></h2>
     {{item.content}}
     <div class='pad1y keyline-top'>
-      <!-- <strong class='quiet small block space-bottom1'>Posted {{item.date | date:"%b %d %Y"}} by {{item.author}}</strong> -->
+      <strong class='quiet small block space-bottom1'>
+        Posted {{item.date | date:"%b %d %Y"}}
+        <!-- by {{item.author}} -->
+      </strong>
     </div>
 
   {% endif %}

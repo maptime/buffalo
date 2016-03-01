@@ -120,7 +120,7 @@ a.fill-darken0:hover  { background-color:rgba(0,0,0,0.15); }
 
 .fill-chapter {
   /* Replace this with a map of your city */
-  /* background-image:url(img/toronto.png); */
+  background-image: url(img/banner.png);
   background-repeat:no-repeat;
   background-size:cover;
   max-width:100%;
@@ -205,11 +205,4 @@ a.fill-darken0:hover  { background-color:rgba(0,0,0,0.15); }
   .sidebar, .content { width:100%; }
   .sidebar { padding:0; }
   header .limiter { padding:120px 0 0; }
-}
-
-
-/* BUFFALO CSS  */
-.buffalo-header {
-  background-image: url(img/banner.png);
-  background-position-x: right;
 }
