@@ -26,7 +26,6 @@ We are looking forward to seeing you there and don’t forget that the Western N
 
 - Discussion of potential improvements to the Buffalo map and community-based projects
 
-
 7:00 - Hands on mapping and exploring.
 
 TBD - Celebration and congratulations
