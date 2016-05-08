@@ -10,7 +10,10 @@ OpenStreetMap is a map-based crowd sourcing project whose data has been used by 
 
 At our first MapTimeBUF event we will provide an introduction to OpenStreetMap and conduct some hands-on exercises where we will map certain features in the City of Buffalo and/or the surrounding area.
 
-We are looking forward to seeing you there and don’t forget that the Western NY GIS Users Group is having their Spring meeting right around the corner at the Mid-Day Club on the 21st floor of the Liberty Building from 4-6.
+We are looking forward to seeing you there and don’t forget that the Western NY
+GIS Users Group is having their Spring meeting right around the corner at the
+Main Court Building at 438 Main Street, Buffalo, NY from 4:30 to 6:30.
+<https://www.facebook.com/events/230739687290885/>
 
 **OUR SCHEDULE**
 
