@@ -9,3 +9,4 @@ maptime:
   twitter: MaptimeBUF
   #disqus: YOUR DISQUS USERNAME
 future: true
+gems: [jekyll-paginate]
